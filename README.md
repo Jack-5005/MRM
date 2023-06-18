@@ -2,4 +2,6 @@
 This is the offical Github page of the "Infinit Empires" Minecraft datapack.
 
 
-[Note: All files with the "V.b" / "V.a" version, may have bugs and / or performance problems.]
+Notes: 
+-All files with the "V.b" / "V.a" version, may have bugs and / or performance problems.
+-Older versions may not have right name / licence data.
